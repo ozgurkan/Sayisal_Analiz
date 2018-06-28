@@ -6,9 +6,9 @@ Bütün sayısal çözümleme yöntemleri
 KÖK BULMA YÖNTEMLERİ
 
         1-)GRAFİK YÖNTEMİ
-         2-)YARIYA BÖLME YÖNTEMİ
-         3-)REGULA FALSE YÖNTEMİ
-           4-)NEWTON RAPHSON YÖNTEMİ
+        2-)YARIYA BÖLME YÖNTEMİ
+        3-)REGULA FALSE YÖNTEMİ
+        4-)NEWTON RAPHSON YÖNTEMİ
 
  MATRİS İŞLEMLERİ
  
