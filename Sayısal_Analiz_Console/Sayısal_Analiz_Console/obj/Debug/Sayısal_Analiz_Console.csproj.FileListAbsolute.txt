@@ -1,0 +1,6 @@
+c:\users\ozgur\documents\visual studio 2012\Projects\Sayısal_Analiz_Console\Sayısal_Analiz_Console\bin\Debug\Sayısal_Analiz_Console.exe.config
+c:\users\ozgur\documents\visual studio 2012\Projects\Sayısal_Analiz_Console\Sayısal_Analiz_Console\bin\Debug\Sayısal_Analiz_Console.exe
+c:\users\ozgur\documents\visual studio 2012\Projects\Sayısal_Analiz_Console\Sayısal_Analiz_Console\bin\Debug\Sayısal_Analiz_Console.pdb
+c:\users\ozgur\documents\visual studio 2012\Projects\Sayısal_Analiz_Console\Sayısal_Analiz_Console\obj\Debug\Sayısal_Analiz_Console.csprojResolveAssemblyReference.cache
+c:\users\ozgur\documents\visual studio 2012\Projects\Sayısal_Analiz_Console\Sayısal_Analiz_Console\obj\Debug\Sayısal_Analiz_Console.exe
+c:\users\ozgur\documents\visual studio 2012\Projects\Sayısal_Analiz_Console\Sayısal_Analiz_Console\obj\Debug\Sayısal_Analiz_Console.pdb
